@@ -1,0 +1,6 @@
+content_img/*
+content_log/*
+labels/*
+*.ttf
+*.ipynb
+*.txt
